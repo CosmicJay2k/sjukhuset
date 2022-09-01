@@ -1,6 +1,6 @@
 package edu.lernia.labb3;
 
-public class Patient {
+class Patient {
 
     private String name;
     private String sickness;
